@@ -1,0 +1,2 @@
+# QR-CODE-COMPONENTE-MAIN
+Card QR Code em HTML e CSS
